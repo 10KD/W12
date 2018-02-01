@@ -1,3 +1,3 @@
 write cover letter
 complete coding challenges
-__-____
+__-__
